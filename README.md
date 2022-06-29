@@ -16,4 +16,6 @@ The climate data was accessed by creating a connection to a Sqlite database 'haw
 
 ### Summary
 The difference in mean temperature between June and December in Oahu is 4 degrees, which is not a significant change. However, the variability in temprature is greater in December than in June, which could mean lower ice-crea,/surf sales. 
-Another factor related to weather that could affect profits could be rainfall. Two additional queries were performed to find mean rainfall in June and December. It was found that the mean preciptation for June was 0.13 inches and for December was 0.21 inches, a difference of a tenth of an inch. 
+Another factor related to weather that could affect profits could be rainfall. Two additional queries were performed to find mean rainfall in June and December (can be found in Surfs_Up_Challenge.ipynb under 'Challenge' header). It was found that the mean preciptation for June was 0.13 inches and for December was 0.21 inches, a difference of a tenth of an inch, which doesn't appear like it would have a huge effect on the sustainability of the business. 
+
+
